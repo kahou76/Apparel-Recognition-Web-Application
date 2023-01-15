@@ -1,4 +1,4 @@
-# Apparel Recogntion - v1
+# Apparel Recognition - v1
 
 
 1. Clone this repo
