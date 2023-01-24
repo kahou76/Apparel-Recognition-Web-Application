@@ -1,3 +1,3 @@
-# Apparel Recognition - v1
+# Face Recognition - v1
 
 
